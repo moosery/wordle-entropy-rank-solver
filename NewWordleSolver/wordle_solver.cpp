@@ -1114,8 +1114,8 @@ void print_recommendation_table(PGUESS_METRICS pRankSorted, PGUESS_METRICS pEntr
     printf("\n%*s--- Top %d Choices (Possible Answers: %ld) ---\n", 22, "", MAX_ROWS, numPossibleAnswers);
     printf("%*s(R=Rank, H=Entropy, N=Plurality, V=Preterite, R=Repeat Risk)\n", 16, "");
     printf("-------------------------------------------+-------------------------------------------\n");
-    printf("     Rank-Optimized                          |     Entropy-Optimized                      \n");
-    printf("   (Higher Rank = More Common)               |   (Higher H = Reduces solution set)        \n");
+    printf("     Rank-Optimized                        |     Entropy-Optimized                     \n");
+    printf("   (Higher Rank = More Common)             |   (Higher H = Reduces solution set)       \n");
     printf("-------------------------------------------+-------------------------------------------\n");
 
     // Print the top N rows side-by-side
