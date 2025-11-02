@@ -9,3 +9,7 @@
 /NewWordleSolver/NewWordleSolver.vcxproj.filters
 /NewWordleSolver/NewWordleSolver.vcxproj.user
 /NewWordleSolver.sln
+/NewWordleSolver/x64/Release
+/x64/Release/libcurl.dll
+/x64/Release/zlib1.dll
+/x64/Release
