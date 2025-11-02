@@ -1,0 +1,11 @@
+--- Build Artifacts ---
+*.exe*.obj*.pdb*.ilk*.suo*.user*.ncb*.aps*.bsc*.sbr*.ipch
+--- Visual Studio / IDE Files ---
+.vs/Debug/Release/ipch/*.opensdf*.sdf*.v12.suo*.v14.suo
+/NewWordleSolver/x64/Debug
+/.vs/NewWordleSolver
+/x64/Debug
+/NewWordleSolver/NewWordleSolver.vcxproj
+/NewWordleSolver/NewWordleSolver.vcxproj.filters
+/NewWordleSolver/NewWordleSolver.vcxproj.user
+/NewWordleSolver.sln
